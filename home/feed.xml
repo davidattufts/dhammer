@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:DBB90041-DEA1-445F-A739-3699FFE3CEB3</id>
+ <title>Page list Atom feed</title>
+ <updated>2017-11-07T08:43:42-05:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:F7EFB5C2-5A48-4410-89AC-5AD6ED588B9C</id>
+  <title>publications</title>
+  <title xmlns="urn:iweb:">publications</title>
+  <in-navbar xmlns="urn:iweb:">F7EFB5C2-5A48-4410-89AC-5AD6ED588B9C</in-navbar>
+  <link rel="alternate" href="publications.html"/>
+  <updated>2017-11-07T08:43:42.001-05:00</updated>
+  <content>publications</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:6D97EB0A-9326-474B-B891-4FB16AD3C285</id>
+  <title>coming soon</title>
+  <title xmlns="urn:iweb:">coming soon</title>
+  <in-navbar xmlns="urn:iweb:">6D97EB0A-9326-474B-B891-4FB16AD3C285</in-navbar>
+  <link rel="alternate" href="coming_soon.html"/>
+  <updated>2017-11-07T08:43:42.002-05:00</updated>
+  <content>coming soon</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:C78485FE-A997-41DB-81F4-E70E82DBFE36</id>
+  <title>Physics for first-graders?</title>
+  <title xmlns="urn:iweb:">Physics for first-graders?</title>
+  <in-navbar xmlns="urn:iweb:">C78485FE-A997-41DB-81F4-E70E82DBFE36</in-navbar>
+  <link rel="alternate" href="Physics_for_first-graders.html"/>
+  <updated>2017-11-07T08:43:42.003-05:00</updated>
+  <content>Physics for first-graders?</content>
+ </entry>
+</feed>

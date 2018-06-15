@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body {
+	background-color: rgba(244,243,243,1.00);
+	max-width: 960px;
+	margin: auto;
+	padding: 10px;
+}
+.centered {
+	text-align: center;
+}
+p {
+	font-size: 15px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	width: auto;
+}
+.pagehead2 {
+	font-style: italic;
+	font-family: 'Times-Roman', 'Times', 'Times New Roman', serif;
+}
+.publicationstyle {
+	font-family: 'Times-Roman', 'Times', 'Times New Roman', serif;
+	font-size: 15px;
+}
+.somepapers {
+	font-family: 'Times-Roman', 'Times', 'Times New Roman', serif;
+	font-size: 16px;
+	margin-left: 20px;
+}
+.pagehead {
+	font-size: 24px;
+}
+.style_3 {
+	font-style: italic;
+}
+.style_5 {
+	font-style: italic;
+}
+.style_1 {
+	font-size: small;
+}

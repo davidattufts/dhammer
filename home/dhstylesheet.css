@@ -10,9 +10,9 @@ body {
 	text-align: center;
 }
 p {
-	font-size: 15px;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	width: auto;
+	font-size: medium;
 }
 .pagehead2 {
 	font-style: italic;
@@ -23,9 +23,9 @@ p {
 	font-size: 15px;
 }
 .somepapers {
-	font-family: 'Times-Roman', 'Times', 'Times New Roman', serif;
-	font-size: 16px;
 	margin-left: 20px;
+	text-indent: 0px;
+	font-size: small;
 }
 .pagehead {
 	font-size: 24px;

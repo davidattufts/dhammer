@@ -33,6 +33,10 @@ p {
 .style_3 {
 	font-style: italic;
 }
+.style_2 {
+	font-weight: bold;
+	color: #033A0D;
+}
 .style_5 {
 	font-style: italic;
 }
